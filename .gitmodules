@@ -13,3 +13,6 @@
 [submodule "accessories"]
 	path = accessories
 	url = ./accessories/
+[submodule "base"]
+	path = base
+	url = ./base
