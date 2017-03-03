@@ -10,3 +10,6 @@
 [submodule "parts"]
 	path = parts
 	url = ./parts
+[submodule "accessories"]
+	path = accessories
+	url = ./accessories/
