@@ -7,3 +7,6 @@
 [submodule "openlock"]
 	path = openlock
 	url = ./openlock/
+[submodule "parts"]
+	path = parts
+	url = ./parts
