@@ -1,0 +1,9 @@
+[submodule "external"]
+	path = external
+	url = ./external
+[submodule "internal"]
+	path = internal
+	url = ./internal/
+[submodule "openlock"]
+	path = openlock
+	url = ./openlock/
