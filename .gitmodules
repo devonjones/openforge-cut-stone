@@ -1,18 +1,18 @@
 [submodule "external"]
 	path = external
-	url = ./external
+	url = https://github.com/devonjones/openforge-cut_stone-external.git
 [submodule "internal"]
 	path = internal
-	url = ./internal/
+	url = https://github.com/devonjones/openforge-cut_stone-internal.git
 [submodule "openlock"]
 	path = openlock
-	url = ./openlock/
+	url = https://github.com/devonjones/openforge-cut_stone-openlock.git
 [submodule "parts"]
 	path = parts
-	url = ./parts
+	url = https://github.com/devonjones/openforge-cut_stone-parts.git
 [submodule "accessories"]
 	path = accessories
-	url = ./accessories/
+	url = https://github.com/devonjones/openforge-cut_stone-accessories.git
 [submodule "base"]
 	path = base
-	url = ./base
+	url = https://github.com/devonjones/openforge-cut_stone-base.git
